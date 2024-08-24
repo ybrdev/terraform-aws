@@ -1,0 +1,10 @@
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
